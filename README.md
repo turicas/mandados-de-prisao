@@ -21,6 +21,12 @@ Instale as dependências com:
 pip install -r requirements.txt
 ```
 
+Se o sistema operacional for Windows, instale também o `pypiwin32`:
+
+```bash
+pip install pypiwin32
+```
+
 Rode os spiders com:
 
 ```bash
